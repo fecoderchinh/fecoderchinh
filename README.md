@@ -1,5 +1,7 @@
+
 # Hi there! 👋 😃 
 
+<!--- 
 ### < About me />
 
 My name is Chinh (Mr.) Vo Trung and I'm a Vietnamese **developer**. I'm here on GitHub to:
@@ -41,3 +43,12 @@ Most used platforms for educational purposes:
 ---
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+
+--->
+
+- 👋 Hi, I’m @fecoderchinh
+- 👀 I’m interested in coding and almost the things about coding.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on web's projects.
+- 📫 At the present, i'm invisible --except=my_email.
+
