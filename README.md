@@ -48,7 +48,7 @@ Most used platforms for educational purposes:
 
 - 👋 Hi, I’m @fecoderchinh
 - 👀 I’m interested in coding and almost the things about coding.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently working as a Fullstack developer but Frontend is my hobby.
 - 💞️ I’m looking to collaborate on web's projects.
 - 📫 At the present, i'm invisible --except=my_email.
 
